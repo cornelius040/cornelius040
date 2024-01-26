@@ -16,6 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cornelius040&icon=0&color=12)](https://visitcount.itsvg.in)
+[![Profile Visits](https://komarev.com/ghpvc/?username=cornelius040&color=blue&label=Profile+Views)](https://github.com/cornelius040)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
